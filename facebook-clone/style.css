@@ -247,6 +247,10 @@ nav{
     margin-bottom: 20px;
     border-radius: 4px;
 }
+.sidebar-ads-close{
+    max-height: 0;
+
+}
 
 .online-list{
     display: flex;
