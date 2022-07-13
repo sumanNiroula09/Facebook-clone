@@ -10,6 +10,8 @@ function settingsMenuToggle(){
      
 }
 
+//this is the fuction to apply dark and light mode 
+
 function close(){
     closeads.classList.toggle("sidebar-ads-close")
 
