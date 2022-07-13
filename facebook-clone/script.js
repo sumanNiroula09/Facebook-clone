@@ -32,6 +32,9 @@ darkBtn.onclick =function(){
 }
 
 
+// to make dark or light mode keeping functing even the window has refreshed
+
+
 if(localStorage.getItem("theme")=="light"){
     darkBtn.classList.remove("dark-btn-on");
     document.body.classList.remove("dark-theme");
